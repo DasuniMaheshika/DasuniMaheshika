@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasuni Maheshika</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://tenor.com/en-GB/view/programming-gif-25868426" alt="dasunimaheshika" /> </p>
+<p align="left"> <img src="[https://tenor.com/en-GB/view/programming-gif-25868426](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)" alt="dasunimaheshika" /> </p>
 
 - 🌱 I’m currently learning **React Js**
 
