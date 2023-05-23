@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasuni Maheshika</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966&tbnid=lahMOKRfUGYsqM&vet=12ahUKEwiEuI-gpov_AhWSi9gFHaO6AlIQMygAegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FGulchinTaghizade&docid=yclGJnecT1u2KM&w=800&h=600&q=animated%20coding%20gif%20girl&hl=en&ved=2ahUKEwiEuI-gpov_AhWSi9gFHaO6AlIQMygAegUIARDMAQ" alt="dasunimaheshika" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" alt="dasunimaheshika" /> </p>
 
 - 🌱 I’m currently learning **React Js**
 
