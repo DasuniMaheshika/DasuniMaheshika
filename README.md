@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning **React Js**
 
+- 📘 I'm currently studying Computer Science at Uva Wellassa University, Sri Lanka
+
+- 💻 I'm currently working as an Intern Software Engineer
+
 - 📫 How to reach me **dasu.maheshika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
