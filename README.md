@@ -8,7 +8,7 @@
 
 - 📘 I'm currently studying Computer Science at Uva Wellassa University, Sri Lanka
 
-- 💻 I'm currently working as an Intern Software Engineer
+- 💻 I'm currently working as an Associate Software Engineer
 
 - 📫 How to reach me **dasu.maheshika@gmail.com**
 
